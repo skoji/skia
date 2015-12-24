@@ -12,7 +12,7 @@ PRE-GIT DOCUMENT VERSION HISTORY
 
 
 To make use of Skia's PDF backend, see
-[Using Skia's PDF Backend](../../user/sample/pdf).
+[Using Skia's PDF Backend](../../user/sample/pdf.md).
 
 Internally, Skia uses SkPDFDocument and SkPDFDevice to represent PDF
 documents and pages.  This document describes how the backend
